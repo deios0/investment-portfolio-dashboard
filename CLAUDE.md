@@ -1,3 +1,12 @@
+---
+category: private
+description: investment-portfolio-dashboard — private project
+name: investment-portfolio-dashboard
+updated_at: '2026-03-30'
+zone: personal
+---
+
+
 # investment-portfolio-dashboard
 
 ## Workspace Rules
@@ -8,8 +17,6 @@
 > Portfolio management is the art and science, which consists of making decisions about investment content combination and
 
 ## Tech Stack
-
-
 
 ## Development Commands
 
@@ -30,10 +37,3 @@
 
 ## Brain Lessons
 <!-- brain:managed — do not edit manually, Brain Service updates this section -->
-
-- [2026-03-20] Dedup test lesson unique title xyz
-- [2026-03-20] Always run tests before commit
-- [2026-03-20] Testing MCP push
-- [2026-03-20] Severity: minor
-- [2026-03-20] Query test lesson unique xyz
-- [2026-03-20] Approve test lesson unique abc
